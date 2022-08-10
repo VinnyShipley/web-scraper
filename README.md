@@ -6,4 +6,4 @@
 
 #### How to run
 
-web_scraper.py
+scraper.py
