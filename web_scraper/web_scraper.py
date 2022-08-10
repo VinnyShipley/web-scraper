@@ -26,6 +26,6 @@ for paragraph in body_div:
 def get_citations_needed_count():
   return print(len(para_list))
 
-def get_citation_needed_report()
+def get_citation_needed_report():
   for i in para_list:
     print(i)
